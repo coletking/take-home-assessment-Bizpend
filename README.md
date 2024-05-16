@@ -38,3 +38,7 @@ To run the unit tests, execute: npm run test
 Additional Notes
 Environment setup: Separate configurations for staging and production environments are provided in the config folder.
 Development: Development environment configurations are in config.worker.ts.
+
+## How to get Token
+
+Please note that to obtain the Bear token, you'll need to create a user. The response will contain a token that you can utilize to make calls to the following endpoints: "Get User by ID," "Update User," and "Delete User."
