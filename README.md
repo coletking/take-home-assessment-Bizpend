@@ -41,4 +41,4 @@ Development: Development environment configurations are in config.worker.ts.
 
 ## How to get Token
 
-Please note that to obtain the Bear token, you'll need to create a user. The response will contain a token that you can utilize to make calls to the following endpoints: "Get User by ID," "Update User," and "Delete User."
+Please note that to obtain the Bear token for Authorization, you'll need to create a user. The response will contain a token that you can utilize to make calls to the following endpoints: "Get User by ID," "Update User," and "Delete User."
